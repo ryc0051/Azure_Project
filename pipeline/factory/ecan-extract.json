@@ -1,0 +1,9 @@
+{
+	"name": "ecan-extract",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "20d13467-f072-4f34-9c80-ad5657a6c7ec",
+		"tenantId": "7b9420ef-1647-4623-b859-1b4969f5b198"
+	}
+}
