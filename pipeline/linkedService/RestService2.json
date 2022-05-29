@@ -12,6 +12,10 @@
 				"Ocp-Apim-Subscription-Key": {
 					"type": "SecureString",
 					"value": "**********"
+				},
+				"Content-Type": {
+					"type": "SecureString",
+					"value": "**********"
 				}
 			}
 		}
